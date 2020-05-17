@@ -3,7 +3,6 @@ This is an example API code for mongodb. I am using mongodb cloud atlas account.
 If you want to use this repo please don't forget to update config/keys.js file.
 <br />
 <p> For understanding API structure you need to first understand the model design we are using for our todos API. </p>
-<br />
 
 <b> Go models directory and check <i>Todos_model.js </i> </b>
 
