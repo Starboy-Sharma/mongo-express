@@ -1,4 +1,4 @@
 module.exports = {
   MongoURI:
-    "mongodb+srv://pankaj-sharma:XcZ0LP4IGfd1vWXg@cluster0-fut5c.mongodb.net/test?retryWrites=true&w=majority",
+    "please add your atlas db account key here",
 };
