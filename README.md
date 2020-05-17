@@ -2,7 +2,10 @@
 This is an example API code for mongodb. I am using mongodb cloud atlas account.
 If you want to use this repo please don't forget to update config/keys.js file.
 
-This API has following examples of MongoDB 	query
+<p> For understanding API structure you need to first understand the model design we are using for our todos API. </p>
+
+
+<h2>This API has following examples of MongoDB 	query </h2>
 <li> Insert </li>
 <li> Update </li>
 <li> Delete </li>
